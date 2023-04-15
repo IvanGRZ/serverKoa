@@ -1,0 +1,48 @@
+{
+  "name": "entregable-18",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000t\u0000e\u0000s\u0000t\u0000F\u0000u\u0000n\u0000c\u0000i\u0000o\u0000n\u0000a\u0000l\u0000i\u0000d\u0000a\u0000d\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "start:dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvanGRZ/testFuncionalidad.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IvanGRZ/testFuncionalidad/issues"
+  },
+  "homepage": "https://github.com/IvanGRZ/testFuncionalidad#readme",
+  "dependencies": {
+    "autocannon": "^7.10.0",
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.0.3",
+    "firebase-admin": "^11.6.0",
+    "http-status": "^1.6.2",
+    "jsonwebtoken": "^9.0.0",
+    "knex": "^2.4.2",
+    "koa": "^2.14.2",
+    "koa-bodyparser": "^4.4.0",
+    "koa-json": "^2.0.2",
+    "koa-passport": "^6.0.0",
+    "koa-router": "^12.0.0",
+    "koa-session": "^6.4.0",
+    "lodash": "^4.17.21",
+    "log4js": "^6.9.1",
+    "md5": "^2.3.0",
+    "mongoose": "^7.0.3",
+    "normalizr": "^3.6.2",
+    "passport-local": "^1.0.0",
+    "passport-twitter": "^1.0.4",
+    "path": "^0.12.7",
+    "stream": "^0.0.2",
+    "url": "^0.11.0"
+  },
+  "type": "module"
+}
